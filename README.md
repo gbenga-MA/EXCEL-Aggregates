@@ -1,2 +1,1 @@
-# EXCEL-Aggregates
-Solving dataset with Aggregates function
+Read My Analytics
